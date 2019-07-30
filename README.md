@@ -1,7 +1,7 @@
 # rep1
 
 #### 介绍
-测试 TEST REP2
+测试 TEST REP2 GITHUB
 
 #### 软件架构
 软件架构说明
